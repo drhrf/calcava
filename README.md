@@ -1,6 +1,6 @@
 # calcava – Shiny App for Calcium Imaging Data Analysis
 
-**calcava** is an interactive [Shiny](https://shiny.posit.co/) application built in R for analyzing calcium imaging data.  
+**calcava** is an interactive [Shiny](https://drhrf.shinyapps.io/SCCImag/) application built in R for analyzing calcium imaging data.  
 It allows researchers to explore, visualize, and quantify calcium dynamics across multiple cells or ROIs, focusing on **peak detection**, **baseline characterization**, and **interval-based descriptive statistics**.
 
 ---
