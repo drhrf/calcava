@@ -104,7 +104,7 @@ calcava/
 ├─ example_data.xlsx  # Example dataset
 └─ Screenshot 2025-10-19 at 16.10.49.jpeg 
 
-## Repository Structure
+## License
 
 This project is released under the MIT License.
 Feel free to modify, reuse, and distribute with proper attribution.
