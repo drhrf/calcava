@@ -21,7 +21,7 @@ Calcium imaging experiments often generate large time-series datasets with fluor
 
 Below is an example of the application interface showing the four main visualization panels:
 
-![Shiny App Screenshot](Screenshot%202025-10-19%20at%2016.10.49.jpeg)
+![Shiny App Screenshot](Screenshot.png)
 
 ---
 
