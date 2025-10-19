@@ -84,15 +84,16 @@ shiny::runApp("app.R")
 
 The “Estatística descritiva (por intervalo)” tab outputs a summary table including:
 
-Variável                           Valor
-Total_de_celulas                   50
-Celulas_responsivas                32
-Percentual_de_celulas_responsivas  64.0
-Intensidade_no_baseline            0.72
-Ponto_de_corte                     1.10
-Percentual_de_aumento_de_calcio    155.5
-Area_abaixo_da_curva               205.34
-Duracao_do_experimento             200
+| Variável                          | Valor |
+|-----------------------------------|-------|
+| Total_de_celulas                  | 50    |
+| Celulas_responsivas               | 32    |
+| Percentual_de_celulas_responsivas | 64.0  |
+| Intensidade_no_baseline           | 0.72  |
+| Ponto_de_corte                    | 1.10  |                           
+| Percentual_de_aumento_de_calcio   | 155.5 |                   
+| Area_abaixo_da_curva              | 205.34|                
+| Duracao_do_experimento            | 200   |        
 
 ## Repository Structure
 
